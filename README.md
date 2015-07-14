@@ -1,6 +1,6 @@
 # angular-angular-eha.ebola-exposures
 
-[![Build Status](https://travis-ci.org/eHealthAfrica/ebola-exposures.svg)](https://travis-ci.org/eHealthAfrica/ebola-exposures) ![Dependecy Status](https://david-dm.org/eHealthAfrica/ebola-exposures.svg) ![Dev Dependecy Status](https://david-dm.org/eHealthAfrica/ebola-exposures/dev-status.svg)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.ebola-exposures.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.ebola-exposures) ![Dependecy Status](https://david-dm.org/eHealthAfrica/ebola-exposures.svg) ![Dev Dependecy Status](https://david-dm.org/eHealthAfrica/ebola-exposures/dev-status.svg)
 
 ## Usage
 

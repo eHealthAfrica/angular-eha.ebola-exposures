@@ -1,6 +1,5 @@
 {
   "name": "angular-angular-eha.ebola-exposures",
-  "version": "0.0.0",
   "description": "accepted values for exposures by country",
   "main": "dist/ebola-exposures.js",
   "scripts": {

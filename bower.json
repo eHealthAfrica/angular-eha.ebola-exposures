@@ -3,7 +3,7 @@
   "description": "accepted values for exposures by country",
   "version": "1.0.0",
   "authors": [
-    "danse <f.occhipinti@gmail.com>"
+    "danse <francesco.occhipinti@ehealthnigeria.org>"
   ],
   "moduleType": [
     "globals",
